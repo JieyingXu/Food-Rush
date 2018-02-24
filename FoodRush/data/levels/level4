@@ -1,0 +1,25 @@
+wall4.png
+3
+b,burger.png,50,true
+c,cheese.png,100,false
+h,hotdog.png,25,false
+3
+B,2,1,1,right
+B,17,3,2,left
+G,18,13,2,left
+wwwwwwwwwwwwwwwwwwww
+wwh           www ww
+wwwwww       h w  ww
+w         wwwwwc  ww
+w ww   E        wwww
+wwww  wwww  wwwwwwww
+w  b          h mw w
+w wwwwwww    wwwww w
+w www  hw      w   w
+w S      w  h  wbw w
+w      ww  wwwwwww w
+www wwwww  wwwww   w
+wcw  bw w  wwwwwww w
+w w  wwb           w
+wwwwwwwwwwwwwwwwwwww
+last

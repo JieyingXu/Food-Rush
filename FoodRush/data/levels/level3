@@ -1,0 +1,24 @@
+wall3.png
+2
+b,burger.png,50,true
+m,muffin.png,25,false
+2
+B,1,1,2,right
+G,18,13,2,left
+wwwwwwwwwwwwwwwwwwww
+w         m    E  pw
+w w  wwww     wwww w
+w w   m          wSw
+w w      ww      w w
+w w  www ww      w w
+w w              w w
+w w  www ww      w w
+w w  wwwwwwwwwwwww w
+w w         b      w
+w w  www wwwwwwwww w
+w w         b      w
+w w  wwwwwwwwwwwww w
+w      b          bw
+wwwwwwwwwwwwwwwwwwww
+
+
